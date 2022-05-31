@@ -4,6 +4,15 @@ thinkbroadband.com
 2a02:68:1::164
 #BroadbandQualityMonitor
 
+#HetznerMonitoring
+pool.sysmon.hetzner.com
+188.40.24.211
+213.133.113.82
+213.133.113.83
+213.133.113.84
+213.133.113.86
+#HetznerMonitoring
+
 #UptimeRobot
 216.144.250.150
 69.162.124.226
