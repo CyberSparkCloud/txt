@@ -1,8 +1,9 @@
 wan.bongo.cybertitan.co.uk
 wan.parents.cybertitan.co.uk
 wan.home.cybertitan.co.uk
-65.21.199.7 #hz-pf-wp
-65.21.199.8 #hz-pf
+wan.hetzner.wp.cybertitan.co.uk #hz-pf-wp
+wan.hetzner.cybertitan.co.uk #hz-pf
 65.21.199.32 #hz-hv
-132.145.40.177 #oc-vps1
-140.238.85.183 #oc-vps2
+wan.oc.vps1.cybertitan.co.uk #oc-vps1
+wan.oc.vps2.cybertitan.co.uk #oc-vps2
+wan.oc.vps3.cybertitan.co.uk #oc-vps3
