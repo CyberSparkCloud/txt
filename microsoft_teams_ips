@@ -2,6 +2,8 @@ sip-all.pstnhub.microsoft.com
 sip.pstnhub.microsoft.com
 sip2.pstnhub.microsoft.com
 sip3.pstnhub.microsoft.com
+
+#Microsoft Graph Change Notifications IPs#
 52.112.0.0/14
 52.120.0.0/14
 52.159.23.209
@@ -68,3 +70,4 @@ sip3.pstnhub.microsoft.com
 20.111.9.77
 13.87.81.133
 13.87.81.141
+#Microsoft Graph Change Notifications IPs#
