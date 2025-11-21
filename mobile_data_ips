@@ -20,10 +20,10 @@
 #Other large EE access / legacy mobile & consumer ranges
 
 #Smaller EE-owned ranges (less likely to be mobile, but still EE)
-193.35.128.0/20
-193.36.78.0/23
-193.36.80.0/22
-194.35.183.0/24
-194.36.213.0/24
-194.36.214.0/24
+#193.35.128.0/20
+#193.36.78.0/23
+#193.36.80.0/22
+#194.35.183.0/24
+#194.36.213.0/24
+#194.36.214.0/24
 #Smaller EE-owned ranges (less likely to be mobile, but still EE)
