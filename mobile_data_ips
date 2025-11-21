@@ -7,16 +7,16 @@
 #Big T-Mobile / EE allocation
 
 #Other large EE access / legacy mobile & consumer ranges
-2.24.0.0/13
-46.68.0.0/15
-82.132.0.0/16        # empirically used as EE mobile NAT
-87.237.16.0/21
-91.110.0.0/16
-95.144.0.0/13
-109.180.0.0/15
-109.249.0.0/16
-149.254.0.0/16
-213.205.192.0/18
+#2.24.0.0/13
+#46.68.0.0/15
+#82.132.0.0/16        # empirically used as EE mobile NAT
+#87.237.16.0/21
+#91.110.0.0/16
+#95.144.0.0/13
+#109.180.0.0/15
+#109.249.0.0/16
+#149.254.0.0/16
+#213.205.192.0/18
 #Other large EE access / legacy mobile & consumer ranges
 
 #Smaller EE-owned ranges (less likely to be mobile, but still EE)
