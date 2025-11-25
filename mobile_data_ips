@@ -1,9 +1,11 @@
+#Used by pfSense#
+
 #Giffgaff
 82.132.128.1/16
 #Giffgaff
 
 #Big T-Mobile / EE allocation
-31.64.0.0/10
+#31.64.0.0/10
 #Big T-Mobile / EE allocation
 
 #Other large EE access / legacy mobile & consumer ranges
