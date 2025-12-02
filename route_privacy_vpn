@@ -14,3 +14,10 @@ twitterinc.com #Twitter
 twitteroauth.com #Twitter
 twitterstat.us #Twitter
 reddit.com #Reddit
+imgur.com #Imgur
+discord.com #Main site, login, core web/app functions
+api.discord.com #REST API for sending/receiving messages
+cdn.discordapp.com #CDN for images, files, emojis, stickers
+media.discordapp.net #Media proxy for images/videos
+gateway.discord.gg #WebSocket gateway for realtime messaging
+voice.discord.gg #Voice server entry point for calls/VC
