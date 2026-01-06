@@ -13,7 +13,10 @@ twitter.co #Twitter
 twitterinc.com #Twitter
 twitteroauth.com #Twitter
 twitterstat.us #Twitter
-x.com.cdn.cloudflare.net #Twitter
+x.com.cdn.cloudflare.net #Twitter - worked out from DNS requests made
+twitter.map.fastly.net #Twitter - worked out from DNS requests made
+twimg.com.cdn.cloudflare.net #Twitter - worked out from DNS requests made
+twimg.com #Twitter - worked out from DNS requests made
 reddit.com #Reddit
 imgur.com #Imgur
 discord.com #Main site, login, core web/app functions
