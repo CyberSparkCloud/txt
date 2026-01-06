@@ -1,22 +1,25 @@
-twitter.com #Twitter
-t.co #Twitter
-ads-twitter.com #Twitter
-twimg.com #Twitter
-x.com #Twitter
-pscp.tv #Twitter
-twtrdns.net #Twitter
-twttr.com #Twitter
-periscope.tv #Twitter
-twitpic.com #Twitter
-tweetdeck.com #Twitter
-twitter.co #Twitter
-twitterinc.com #Twitter
-twitteroauth.com #Twitter
-twitterstat.us #Twitter
+## Twitter ##
+twitter.com
+t.co
+ads-twitter.com
+twimg.com
+x.com
+pscp.tv
+twtrdns.net
+twttr.com
+periscope.tv
+twitpic.com
+tweetdeck.com
+twitter.co
+twitterinc.com
+twitteroauth.com
+twitterstat.us
 x.com.cdn.cloudflare.net #Twitter - worked out from DNS requests made
 twitter.map.fastly.net #Twitter - worked out from DNS requests made
 twimg.com.cdn.cloudflare.net #Twitter - worked out from DNS requests made
 twimg.com #Twitter - worked out from DNS requests made
+## Twitter ##
+
 reddit.com #Reddit
 imgur.com #Imgur
 discord.com #Main site, login, core web/app functions
