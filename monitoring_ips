@@ -4,6 +4,11 @@ thinkbroadband.com
 2a02:68:1::164
 #BroadbandQualityMonitor
 
+#OliloPulse#
+5.182.115.69
+2a11:2646:1:2::3
+#OliloPulse#
+
 #HetznerMonitoring
 pool.sysmon.hetzner.com
 188.40.24.211
