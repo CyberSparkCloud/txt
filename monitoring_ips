@@ -18,6 +18,23 @@ pool.sysmon.hetzner.com
 213.133.113.86
 #HetznerMonitoring
 
+#HetrixTools
+ips.hetrixtools.com
+#HetrixTools
+
+#OneUptime
+172.174.206.132
+57.151.99.117
+34.44.60.111
+35.209.152.168
+51.159.99.250
+51.159.99.250
+62.210.173.51
+51.159.101.36
+172.174.206.132
+57.151.99.117
+#OneUptime
+
 #UptimeRobot - Updated October 2025
 3.212.128.62
 34.198.201.66
@@ -251,16 +268,3 @@ pool.sysmon.hetzner.com
 2400:6180:10:200::56a0:c000
 2400:6180:10:200::56a0:e000
 #UptimeRobot
-
-#HetrixTools
-ips.hetrixtools.com
-#HetrixTools
-
-#OneUptime
-51.159.99.250
-51.159.99.250
-62.210.173.51
-51.159.101.36
-172.174.206.132
-57.151.99.117
-#OneUptime
