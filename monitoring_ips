@@ -18,6 +18,25 @@ thinkbroadband.com
 #London#
 #GrafanaSynthetics#
 
+#Singapore#
+13.228.17.76/32
+18.139.143.38/32
+2406:da18:883:9920::/60
+2406:da18:883:9930::/60
+#Singapore#
+
+#NorthVirginia#
+52.7.111.136/32
+54.164.147.104/32
+3.211.97.239/32
+35.168.151.74/32
+2600:1f18:6c3a:b220::/60
+2600:1f18:6c3a:b230::/60
+2600:1f18:34dc:a520::/60
+2600:1f18:34dc:a530::/60
+#NorthVirginia#
+#GrafanaSynthetics#
+
 #HetznerMonitoring
 pool.sysmon.hetzner.com
 188.40.24.211
