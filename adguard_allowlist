@@ -1,3 +1,7 @@
+! Title: CyberSpark's Custom Allowlist
+! Description: Custom DNS allowlist for AdGuard Home
+! Last modified: 2026-10-20
+!
 @@||analytics.google.com^
 @@||api.rollbar.com^
 @@||asendia.com^
