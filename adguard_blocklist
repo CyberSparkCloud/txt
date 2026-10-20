@@ -1,0 +1,5 @@
+! Title: CyberSpark's Custom Blocklist
+! Description: Custom DNS blocklist for AdGuard Home
+! Last modified: 2026-10-20
+!
+||proxystream.st^
