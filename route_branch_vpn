@@ -1,51 +1,8 @@
 # ==================================================
-# BBC iPlayer - route via Pts branch WAN
 # pfSense alias: urls_to_route_branch_vpn (URL Table)
 # Used by: policy-route rules on LAN + WG_ROADWARRIOR
 #          (gateway wg_sitetosite_pts_gw)
 # Related: AdGuard AAAA blocks in CyberSpark blocklist
 #          (Pts has no IPv6 - keep iPlayer on IPv4)
-# Note: no wildcards - add exact hostnames only
-#       (find new ones in AdGuard query log)
 # Last modified: 2026-10-27
 # ==================================================
-
-# --- BBC-owned ranges (static, never go stale) ---
-212.58.224.0/19
-132.185.0.0/16
-
-# --- Core iPlayer site & API ---
-www.bbc.co.uk
-bbc.co.uk
-ibl.api.bbc.co.uk
-ibl.api.bbci.co.uk
-
-# --- Media selector (main UK location check) ---
-open.live.bbc.co.uk
-open.live.bbci.co.uk
-
-# --- Sign-in / session ---
-session.bbc.co.uk
-session.bbc.com
-account.bbc.com
-
-# --- Player ---
-emp.bbc.co.uk
-emp.bbci.co.uk
-
-# --- Web app assets & artwork (not needed for geo-check) ---
-iplayer-web.files.bbci.co.uk
-ichef.bbci.co.uk
-
-# --- On-demand video CDN (Akamai) ---
-vod-dash-uk-live.akamaized.net
-vod-hls-uk-live.akamaized.net
-vod-thumb-uk-live.akamaized.net
-vod-sub-uk-live.akamaized.net
-
-# --- Live TV / radio CDN (Akamai) ---
-vs-cmaf-push-uk-live.akamaized.net
-vs-dash-uk-live.akamaized.net
-vs-hls-uk-live.akamaized.net
-ve-dash-uk-live.akamaized.net
-as-dash-uk-live.akamaized.net
