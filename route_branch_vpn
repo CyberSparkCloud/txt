@@ -1,1 +1,28 @@
+# ==================================================
+# BBC iPlayer - route via branch WAN
+# Alias: urls_to_route_branch_vpn
+# ==================================================
 
+# --- Core iPlayer site & API ---
+www.bbc.co.uk
+bbc.co.uk
+ibl.api.bbc.co.uk
+ibl.api.bbci.co.uk
+
+# --- Media selector (main UK location check) ---
+open.live.bbc.co.uk
+open.live.bbci.co.uk
+
+# --- Sign-in / session ---
+session.bbc.co.uk
+session.bbc.com
+account.bbc.com
+
+# --- Player ---
+emp.bbc.co.uk
+emp.bbci.co.uk
+
+# --- CDN / stream hosts (add more from AdGuard query log) ---
+vod-dash-uk-live.akamaized.net
+vod-hls-uk-live.akamaized.net
+vod-thumb-uk-live.akamaized.net
