@@ -7,24 +7,3 @@
 ! ==================================================
 ||proxystream.st^
 !
-! ==================================================
-! BBC iPlayer - force IPv4 (block AAAA records only)
-! ==================================================
-! Why: iPlayer traffic is policy-routed on pfSense via the
-! site-to-site WireGuard tunnel to Pts (branch) and out their WAN.
-! Pts has no IPv6, so the tunnel can only carry IPv4.
-! Blocking AAAA makes devices use IPv4 for BBC, so they hit the
-! pfSense rule matching alias urls_to_route_branch_vpn.
-! A records are NOT blocked, so iPlayer still works normally.
-! Related: pfSense IPv6 Reject rules on LAN and WG_ROADWARRIOR.
-! Remove these lines if Pts gets IPv6 or the routing is removed.
-!
-! BBC domains (each rule covers all subdomains)
-||bbc.co.uk^$dnstype=AAAA
-||bbci.co.uk^$dnstype=AAAA
-||bbc.com^$dnstype=AAAA
-!
-! iPlayer CDN hostnames (keep in sync with the pfSense alias list)
-||vod-dash-uk-live.akamaized.net^$dnstype=AAAA
-||vod-hls-uk-live.akamaized.net^$dnstype=AAAA
-||vod-thumb-uk-live.akamaized.net^$dnstype=AAAA
