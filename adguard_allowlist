@@ -2,6 +2,10 @@
 ! Description: Custom DNS allowlist for AdGuard Home
 ! Last modified: 2026-11-01
 !
+! --- Notes on whitelisted domains ---
+! vlscppe.microsoft.com - Quick Assist helper security check (CNAMEs to ThreatMetrix, blocked by Hagezi PRO++)
+! --- Notes on whitelisted domains ---
+!
 @@||analytics.google.com^
 @@||api.rollbar.com^
 @@||asendia.com^
