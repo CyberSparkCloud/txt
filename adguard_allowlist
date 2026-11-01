@@ -1,6 +1,6 @@
 ! Title: CyberSpark's Custom Allowlist
 ! Description: Custom DNS allowlist for AdGuard Home
-! Last modified: 2026-10-20
+! Last modified: 2026-11-01
 !
 @@||analytics.google.com^
 @@||api.rollbar.com^
@@ -20,6 +20,7 @@
 @@||logger.renpho.com^
 @@||mailerlite.com^
 @@||mailjet.com^
+@@||monitor.azure.com^
 @@||namecheap.com^
 @@||odeon.co.uk^
 @@||optinmonster.com^
