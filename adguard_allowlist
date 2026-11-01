@@ -4,7 +4,7 @@
 !
 ! --- Notes on whitelisted domains ---
 ! vlscppe.microsoft.com - Windows QuickAssist helper security check (CNAMEs to ThreatMetrix, blocked by Hagezi PRO++)
-! --- Notes on whitelisted domains ---
+! --- End of notes ---
 !
 @@||analytics.google.com^
 @@||api.rollbar.com^
