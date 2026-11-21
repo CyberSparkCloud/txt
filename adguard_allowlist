@@ -1,6 +1,6 @@
 ! Title: CyberSpark's Custom Allowlist
 ! Description: Custom DNS allowlist for AdGuard Home
-! Last modified: 2026-11-18
+! Last modified: 2026-11-21
 !
 ! --- Notes on whitelisted domains ---
 ! vlscppe.microsoft.com - Windows QuickAssist helper security check (CNAMEs to ThreatMetrix, blocked by Hagezi PRO++)
@@ -33,6 +33,7 @@
 @@||premium.analytics.mist.com^
 @@||proxyclick.com^
 @@||queue-it.net^
+@@||releasenudge.co.uk^
 @@||releasenudge.com^
 @@||sendinblue.com^
 @@||sleepandeat.co.uk^
